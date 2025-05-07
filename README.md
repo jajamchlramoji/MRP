@@ -150,11 +150,11 @@ By combining high-level trends, deep job-role insights, and employer comparisons
 - Make confident, data-backed career decisions
 
 ## 👥 Project Team
-Nikhila Sree Inti
-Ramoji Jajam
-Pavan Barapati
-Bhargavi Indla
-Megha Shyam Dora Hanumanthu
+- Nikhila Sree Inti
+- Ramoji Jajam
+- Pavan Barapati
+- Bhargavi Indla
+- Megha Shyam Dora Hanumanthu
 ---
 
 ## 📄 License  
