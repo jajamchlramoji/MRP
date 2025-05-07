@@ -149,6 +149,12 @@ By combining high-level trends, deep job-role insights, and employer comparisons
 - Compare salaries and hiring trends across industries
 - Make confident, data-backed career decisions
 
+## 👥 Project Team
+Nikhila Sree Inti
+Ramoji Jajam
+Pavan Barapati
+Bhargavi Indla
+Megha Shyam Dora Hanumanthu
 ---
 
 ## 📄 License  
